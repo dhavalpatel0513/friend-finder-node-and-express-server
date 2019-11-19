@@ -7,13 +7,9 @@ Node and Express Servers Exercise
 3) run program using 'npm start'
 
 #### Deployed link
-https://joli-choucroute-43394.herokuapp.com/
+https://friend-finder-node-expres.herokuapp.com/survey
 
 #### Description
 Friend Finder will find the best match from a list of users based on results from the survey.
 User data will be saved to list of users for future matches
 
-#### Dependencies
-body-parser
-cor
-express
