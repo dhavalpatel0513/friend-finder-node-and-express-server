@@ -1,8 +1,3 @@
-/*
-    Steven Tran
-    UofT SCS Coding Bootcamp
-*/
-
 var friendsArray = [
     {
         "name": "Arash",
